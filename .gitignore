@@ -1,0 +1,7 @@
+docker/mysql/data
+
+# MySQL database files
+db/*
+
+# MySQL log files
+*.log
